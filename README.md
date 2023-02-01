@@ -2,6 +2,11 @@
 
 Python library for interacting with the JustForFund API.
 
+Install:
+
+
+          pip install justforfund
+
 First off. Define the following environment variables if you are interacting with:
 
   - Algorithms:
