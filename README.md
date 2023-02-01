@@ -5,10 +5,9 @@ Python library for interacting with the JustForFund API.
 First off. Define the following environment variables if you are interacting with:
 
   - Algorithms:
-    <code>
-    export JUSTFORFUND_ALGORITHM_API_KEY
-    export JUSTFORFUND_ALGORITHM_SECRET_KEY
-    </code>
+
+          export JUSTFORFUND_ALGORITHM_API_KEY
+          export JUSTFORFUND_ALGORITHM_SECRET_KEY
 
   - Resources:
 
